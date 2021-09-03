@@ -1,1 +1,3 @@
-"# Course Information System by Semre" 
+"# Course Information System Desktop Application by Semre" 
+
+
